@@ -1,1 +1,1 @@
-A non-empty readme
+Hello!, I'm taking anSE course on Alx
